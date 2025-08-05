@@ -1,0 +1,10 @@
+print(1+10+10000)
+print(1.5+3+1.5)
+print(True)
+print(False)
+print("python")
+
+int()
+float()
+str()
+bool()
